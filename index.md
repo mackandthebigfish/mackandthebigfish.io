@@ -1,1 +1,3 @@
+#Github Portfolio
 
+I'm Mack Phillips, a rising junior at Agnes Scott College. I'm majoring in biology and minoring in environmental and sustainability studies. My areas of interest are entomology, marine biology and - most relevant of all - computational ecology, in which I have the most experience. During the summer of 2024, I participated in a REU at my home institution in which I utilized citizen science data from eBird and EDDMapS to determine the effect the Spotted Lanternfly invasion had on biodiversity in bird populations residing in counties surrounding the location in which they were initially found. 
